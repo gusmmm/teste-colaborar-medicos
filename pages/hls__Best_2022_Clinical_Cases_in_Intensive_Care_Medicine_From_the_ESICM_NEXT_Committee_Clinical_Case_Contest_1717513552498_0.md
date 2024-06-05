@@ -56,3 +56,47 @@ file-path:: ../assets/Best_2022_Clinical_Cases_in_Intensive_Care_Medicine_From_t
   hl-page:: 69
   hl-color:: red
   id:: 665f2ecc-2f1d-42eb-a5a8-cbc80140f701
+- [:span]
+  ls-type:: annotation
+  hl-page:: 70
+  hl-color:: yellow
+  id:: 6660170a-c67b-411b-bb62-c40501d14ca7
+  hl-type:: area
+  hl-stamp:: 1717573385053
+- [:span]
+  ls-type:: annotation
+  hl-page:: 70
+  hl-color:: yellow
+  id:: 6660180c-4119-4e67-9336-c118ea03d05d
+  hl-type:: area
+  hl-stamp:: 1717573642192
+- First, a differential diagnosis should be made among necrotizing cellulitis, necrotizing fasciitis, and necrotizing myositi
+  ls-type:: annotation
+  hl-page:: 71
+  hl-color:: red
+  id:: 666019b4-fbee-47ac-871f-670068d0fbd3
+- the diagnosis often is set in the operating r
+  ls-type:: annotation
+  hl-page:: 71
+  hl-color:: yellow
+  id:: 666019c0-1369-4615-bfd2-d5ea839fe6e4
+- n three major bloc
+  ls-type:: annotation
+  hl-page:: 71
+  hl-color:: red
+  id:: 666019f6-98a7-4598-ba8c-38d8f56b5e76
+- ed physiologic support 
+  ls-type:: annotation
+  hl-page:: 71
+  hl-color:: yellow
+  id:: 66601a3a-3bbe-48b5-877e-f3864bcb1917
+- e empiric antibiotic ther
+  ls-type:: annotation
+  hl-page:: 71
+  hl-color:: yellow
+  id:: 66601a43-d7cf-44f5-b77d-3a29037df43c
+- of urgent surgical treat
+  ls-type:: annotation
+  hl-page:: 71
+  hl-color:: yellow
+  id:: 66601a68-88cb-4c3b-9268-9d640733af9f
