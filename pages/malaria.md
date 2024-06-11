@@ -1,0 +1,18 @@
+- acontece 10-15 dias após picada com mosquito infectado
+	- doença febril aguda inespecífica
+		- [[fever]]
+		- [[headache]]
+		- [[shivering]]
+		- [[vomiting]]
+	- por ser inespecífica, deve ser distinguida de
+		- [[sepsis]] bacteriana
+		- [[meningitis]]
+		- [[intoxications]]
+		- [[coma/non-infectious cause]]
+		- [[viral encephalitis]]
+		- [[viral hemorrhagic fevers]]
+		- [[ricketsial diseases]]
+	- classíficação clínica
+		- [[malaria/clinica/não complicada]]
+		- [[malaria/clinica/severa]]
+	-

@@ -1,0 +1,2 @@
+- menos usadas por aparecimento de resistência
+-

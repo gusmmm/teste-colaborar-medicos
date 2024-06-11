@@ -1,0 +1,5 @@
+- ((66683224-3aa6-4b07-89bd-649723b03e0a))
+	- doente com sintomas de malária
+	- resultado microscópico positivo ou [[teste rapido diagnóstico para malaria]] positivo
+	- sem sinais nem sintomas de disfunção orgânica
+	-
