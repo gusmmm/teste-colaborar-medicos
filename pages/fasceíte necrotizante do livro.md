@@ -77,6 +77,76 @@ patologia:: [[NSTIs]]
 	  card-next-schedule:: 2024-06-10T08:18:33.046Z
 	  card-last-reviewed:: 2024-06-06T08:18:33.046Z
 	  card-last-score:: 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		- desbridamento cirúrgico precoce
 		- com terapia antibiótica empírica de largo-espectro
 			- ((665f2e67-7c76-403b-a4ad-b427f0a29055))
